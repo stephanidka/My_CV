@@ -1,0 +1,11 @@
+.btn {
+  background: #014742;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.btn:hover {
+  background: rgb(0.2916666667, 20.7083333333, 19.25);
+}/*# sourceMappingURL=buttons.css.map */
